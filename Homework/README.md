@@ -25,7 +25,24 @@
 
 * รูปที่ 5 Online Shop
 ```
-
+@startuml
+title OnlineShop
+left to right direction
+skinparam packageStyle rect
+actor customer
+actor merchant
+rectangle OnlineShop {
+    customer -- (OnlineStore) : Open
+    customer -- (Add to Cart) : Oder
+    customer -- (Pay) 
+    (Pay) . (Cash)
+    (Pay) . (card)
+    (Pay) -right- merchant : check
+    merchant -right- (Delive) : sent
+    (Delive) -- customer : recive
+    (OnlineStore) -- merchant : check 
+}
+@enduml
 ```
 [![IMAGE ALT TEXT](http://www.plantuml.com/plantuml/img/RL91ReCm4BplA_OME3WFu52bIkzKpGiiUm4Bi97jj49L_zwr2JI8-hIUdPsTiNm9KVfu7mU89Ww4jHsCfLld9XYeYHWTUjDs4RNnfA9n5a9lx2Iz776IgfSjtUBCawaDKaNdKTr3T2FvnvKhrKaR8L6aRNThy1kGppg2Gc3nwF8ibLXXFP4zabwrJkwkR3-JDEyxaDxbN6A6b_ACnLM6hjn3Idhz38aSMMp6MLvrfFfCsS2LLRpHO3wpqq2SCkki69lO35NfZHXT6BkGuhWCuGS0JbNTD4QHhr2yP7iZxoWNBM8n79sb6Kv_hRDsNtOB-cyZnNrMJj8V5CYpNY39NBYGrVmjVW40)
 
