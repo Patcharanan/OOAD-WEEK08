@@ -6,6 +6,10 @@
 
 * รูปที่ 1 Cinema
 
+[![IMAGE ALT TEXT](http://www.plantuml.com/plantuml/img/PP1DRW8n34RtFeLtC8lX016gaAQBxbgr9x0oJiSYaumSKudR4neX6F3oVTRppw4OgPtc2963eMLK-PqCHr7s9Zc1YKN6ZrmMCOe8RY4JJkQmVyCjBKkMP7C5tLFaAVd8A_gFJ_eAl-ZS0QnikEzxT3z68JXqE4piZt2JFeRGb0szPszPAxiQ6neYwz51gutx344yQzknThLX3kkzB7-CSqvyXiqzskrmEr2PkbUeOxSoNfNVN5Yhfp3LFZXm6kjxBm00)
+
+* รูปที่ 2 Hospital
+
 ## Use Case Diagram (ภาษาไทย)
 * บรรยายเรื่อง UML โดย อ.ปานใจ  
 
