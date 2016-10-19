@@ -12,3 +12,10 @@
 
 * รูปที่ 3 ลงทะเบียน
 
+[![IMAGE ALT TEXT](http://www.plantuml.com/plantuml/img/TP5DReGm38NtFeLtbCLm01QZaNg0LjDUm0g6H80pIambLFNkurJGcVvb5Viz-trAJbafwJ9Fe44dnaVFRiIuA4pSAsh450Qls8N4JaCKo6EG2oMQyK9kf85VTBN18WCvZGbVFIiBYUQjyTJtmN62uY4PzXXBmNT0ExS9F1pmuGkY_bJlQfEFUwtUKcESDzEP-qKw71PZ4sMkiMd-y_vebj2TyG-SPrgtkNAxDty0GDLkLOk5pImpYv6svKaul37EKNY5wYOrZI5GzlNlPkhgRnlBoZDdJhOdCvaFgXDBPpzs1G00)
+
+* รูปที่ 4 Check Out
+
+[![IMAGE ALT TEXT](http://www.plantuml.com/plantuml/img/RL91ReCm4BplA_OME3WFu52bIkzKpGiiUm4Bi97jj49L_zwr2JI8-hIUdPsTiNm9KVfu7mU89Ww4jHsCfLld9XYeYHWTUjDs4RNnfA9n5a9lx2Iz776IgfSjtUBCawaDKaNdKTr3T2FvnvKhrKaR8L6aRNThy1kGppg2Gc3nwF8ibLXXFP4zabwrJkwkR3-JDEyxaDxbN6A6b_ACnLM6hjn3Idhz38aSMMp6MLvrfFfCsS2LLRpHO3wpqq2SCkki69lO35NfZHXT6BkGuhWCuGS0JbNTD4QHhr2yP7iZxoWNBM8n79sb6Kv_hRDsNtOB-cyZnNrMJj8V5CYpNY39NBYGrVmjVW40)
+
+* รูปที่ 5 Online Shop
