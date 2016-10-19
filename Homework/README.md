@@ -19,6 +19,21 @@
 
 * รูปที่ 4 Check Out
 ```
+@startuml
+title Check out
+left to right direction
+skinparam packageStyle rect
+actor Thetenants
+actor Officer
+rectangle Checkout {
+    Thetenants -- (Check out)
+    (Check out) --> (Check the room)
+    (Refund guarantee) ..> (Check the room)
+    (Check the room) -- Officer
+    Thetenants -- (Pay)
+    (Pay) -- Officer
+}
+@enduml
 
 ```
 [![IMAGE ALT TEXT](http://www.plantuml.com/plantuml/img/TP5DReGm38NtFeLtbCLm01QZaNg0LjDUm0g6H80pIambLFNkurJGcVvb5Viz-trAJbafwJ9Fe44dnaVFRiIuA4pSAsh450Qls8N4JaCKo6EG2oMQyK9kf85VTBN18WCvZGbVFIiBYUQjyTJtmN62uY4PzXXBmNT0ExS9F1pmuGkY_bJlQfEFUwtUKcESDzEP-qKw71PZ4sMkiMd-y_vebj2TyG-SPrgtkNAxDty0GDLkLOk5pImpYv6svKaul37EKNY5wYOrZI5GzlNlPkhgRnlBoZDdJhOdCvaFgXDBPpzs1G00)
