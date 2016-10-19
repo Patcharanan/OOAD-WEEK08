@@ -1,5 +1,11 @@
 # OOAD-WEEK08
 
+## ส่งงาน Use case diagram 5 ข้อ
+
+[![IMAGE ALT TEXT](http://www.plantuml.com/plantuml/img/TO_12eCm44Jl-nLxQpt43mYb27v0I_yWn153JOHaBVZtNNjHaLxdpUpCDaLSbZcE9456S1iIecEoVYuoHMJBvixNTe1_Su6Jwe1Mza91_k0FVReb8YcWev5lnXYsZxuFVZLR_dNGfkpJYZCyWgRZbB3GHkfQvxaoL2SjTzfAbzt5qroc1gdJzxy0)
+
+* รูปที่ 1 Cinema
+
 ## Use Case Diagram (ภาษาไทย)
 * บรรยายเรื่อง UML โดย อ.ปานใจ  
 
