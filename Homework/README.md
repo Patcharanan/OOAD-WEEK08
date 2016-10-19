@@ -13,9 +13,24 @@
 
 * รูปที่ 3 ลงทะเบียน
 ```
-
+@startuml
+title enroll in 
+left to right direction
+skinparam packageStyle rect
+actor Student
+actor RegistrationOfficer
+actor Clerk
+rectangle checkout {
+  Student -- (Register)
+  (Register) --> (Check the course)
+  Student -- (Payment information)
+  Clerk -- (Payment information)
+  RegistrationOfficer - (Register)
+  RegistrationOfficer - (Check the course)
+}
+@enduml
 ```
-[![IMAGE ALT TEXT](http://www.plantuml.com/plantuml/img/TL7DRi8m3BxdANo37E01UfYGU81Dy0HMwhPMyuCS5wcQzkvBe1NRO3d5_lxiv90LHQVWZR9w0egIl0UEO3nr2ff0k1yKMXPooYcQF7Aye6202xeHUphhN9GLDkWq2PnrQYckrObwpYfOnUzTnuvaGOwUP3HLYB4l5dSc2NmQM4rWjuFj2jZIVnG5UeFjSI0tWWu4BasIoVxHVk0SwfrZboJSfgYKM_R_X1yfbVHoYUVeE_Sb-SiiPzCihGRg-4kwXQQ-8F6L8AH8izayeFs-h8bviCzDQUqlnsfveanIV39XuPa3nRPyy3S0)
+[![IMAGE ALT TEXT](http://www.plantuml.com/plantuml/img/VP5DZi8m38NtEOLta0KSe8iH4WS0mGcir6sjvWSvxaZLYBkJC4LeO6QoYkttFZybkwmeEWLlbDKJK9JaFN04uwbJq0J2_Q3Gif1JJj7aaUC51GDSq8tOqrddugnZWqwJm5cdbkAZEb7FMGMh-T1rx4YMoTwJZAOQCVO5uGPoOveKlWmy8B3PmFeRGM9B_rcKqGUizzK4EXHxcYIJVV4USGxrph5B4kufgkI--p_1Bx7X9SeValT4LxESLRFe6gZPbzKMclfyn9y48KMQpUevscuB4VDWtvlIsX_4YZnH9YcSJ5XqPaUnBRzx0m00)
 
 * รูปที่ 4 Check Out
 ```
