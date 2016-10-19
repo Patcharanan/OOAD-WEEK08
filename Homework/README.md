@@ -7,3 +7,8 @@
 [![IMAGE ALT TEXT](http://www.plantuml.com/plantuml/img/PP1DRW8n34RtFeLtC8lX016gaAQBxbgr9x0oJiSYaumSKudR4neX6F3oVTRppw4OgPtc2963eMLK-PqCHr7s9Zc1YKN6ZrmMCOe8RY4JJkQmVyCjBKkMP7C5tLFaAVd8A_gFJ_eAl-ZS0QnikEzxT3z68JXqE4piZt2JFeRGb0szPszPAxiQ6neYwz51gutx344yQzknThLX3kkzB7-CSqvyXiqzskrmEr2PkbUeOxSoNfNVN5Yhfp3LFZXm6kjxBm00)
 
 * รูปที่ 2 Hospital
+
+[![IMAGE ALT TEXT](http://www.plantuml.com/plantuml/img/TL7DRi8m3BxdANo37E01UfYGU81Dy0HMwhPMyuCS5wcQzkvBe1NRO3d5_lxiv90LHQVWZR9w0egIl0UEO3nr2ff0k1yKMXPooYcQF7Aye6202xeHUphhN9GLDkWq2PnrQYckrObwpYfOnUzTnuvaGOwUP3HLYB4l5dSc2NmQM4rWjuFj2jZIVnG5UeFjSI0tWWu4BasIoVxHVk0SwfrZboJSfgYKM_R_X1yfbVHoYUVeE_Sb-SiiPzCihGRg-4kwXQQ-8F6L8AH8izayeFs-h8bviCzDQUqlnsfveanIV39XuPa3nRPyy3S0)
+
+* รูปที่ 3 ลงทะเบียน
+
